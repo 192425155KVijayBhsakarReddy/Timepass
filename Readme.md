@@ -11,4 +11,4 @@ A simple project demonstrating Git branching and merge conflict resolution.
 
 ## Student Information
 
-Project status: Initial version
+Project status: Updated by main branch
