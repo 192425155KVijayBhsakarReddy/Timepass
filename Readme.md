@@ -9,11 +9,13 @@ A simple project demonstrating Git branching and merge conflict resolution.
 - Purpose: Demonstrate collaborative development using Git.
 - Repository: Timepass
 
-## Student Information
+
 ## Student Registration
 
 Student Name: Vijay
 Student ID: 101
 Department: Computer Science
 
-Project status: Updated by main branch
+## Student Information
+
+Project status: Updated and verified after merging both branches.
