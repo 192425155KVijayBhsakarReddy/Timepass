@@ -10,5 +10,10 @@ A simple project demonstrating Git branching and merge conflict resolution.
 - Repository: Timepass
 
 ## Student Information
+## Student Registration
+
+Student Name: Vijay
+Student ID: 101
+Department: Computer Science
 
 Project status: Initial version
